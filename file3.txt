@@ -1,0 +1,1 @@
+this is the original text that was in the master branch. It will have a conflict with the first_b branch.
