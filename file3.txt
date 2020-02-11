@@ -1,1 +1,2 @@
 this is the original text that was in the master branch. It will have a conflict with the first_b branch.
+this now has different contents from the master branch, but soon when we merge them it won't.
